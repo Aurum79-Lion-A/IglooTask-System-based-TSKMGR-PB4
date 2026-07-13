@@ -11,8 +11,8 @@ echo ===========================================================================
 echo   1) PROCESS LIST          5) START NEW TASK
 echo   2) PERFORMANCE           6) KILL TASK
 echo   3) STARTUP APPS          7) DISABLE STARTUP APP
-echo   4) NETWORK TASKS         9) FIX TASK MGR
-echo                            8) EXIT
+echo   4) NETWORK TASKS         8) EXIT
+echo                9) FIX TASK MGR
 echo ==========================================================================================
 echo.
 set /p choice="Choice >> "
